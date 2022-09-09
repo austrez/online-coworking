@@ -6,6 +6,7 @@ type TMessage = {
 };
 
 type TUser = {
+	id: string;
 	name: string;
 };
 
